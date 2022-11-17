@@ -1,6 +1,6 @@
-## Patchnotes 17.11.2022
+# Patchnotes 17.11.2022
 
-# [Characters]
+## [Characters]
 - Added [Ido](http://fsf.hogacn.com/h/guide/h/guide/juesejieshao/2021/0428/839.html)
 
 ![Ido](images/img_ido.png)
@@ -8,7 +8,7 @@
 
 ![MViolet](images/img_zllmt.png)
 
-# [Items]
+## [Items]
 - Added some new glove?
 - Added fragments for Ido and Model Violet
 - Added some farmer outfit(M/F)
@@ -21,7 +21,7 @@
 
 ![Capsule](images/ui_useitem3606.jpg)
 
-# [Events]
+## [Events]
 - Turkey Run (most likely similar to the Jogging Event)
 
 ![Event1](images/event_banner_43.jpg)
@@ -38,10 +38,10 @@
 
 ![Event1](images/event_banner_0157.jpg)
 
-# [Features]
+## [Features]
 - [Team Make System](https://steamcommunity.com/games/1826980/announcements/detail/3467237196843897680)
 
-# [Bug Fixes]
+## [Bug Fixes]
 - Ellie's Specialty can be triggered in the wrong situation
 - Ellie's Specialty does not work when some cards were equipped
 - Google Forms is no longer available as a feedback channel to improve the efficiency of feedback processing
