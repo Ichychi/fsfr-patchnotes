@@ -1,2 +1,1 @@
-# fsfr-patchnotes
-Unofficial patchnotes for FSFR
+# Unofficial patchnotes for FSFR
