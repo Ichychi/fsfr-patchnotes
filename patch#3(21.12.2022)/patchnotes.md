@@ -3,7 +3,8 @@
 ## [Characters]
 *They changed the skills of the 2 new characters, their original skills are ~~crossed out~~*
 
-- Added new collection(Agility/StandTackle/DribbleTech/FirstTouch) with Alice, Olivia, Edo and Dion. *(not sure if new or they just added Edo and Dion to it)*
+- Added new collection(Agility/StandTackle/DribbleTech/FirstTouch) with Alice, Olivia, Edo and Dion.  
+*(not sure if new or they just added Edo and Dion to it)*
 
 
 - Added [Golden Gourdon](http://fsf.hogacn.com/h/guide/h/guide/juesejieshao/2021/1027/963.html)
@@ -40,7 +41,8 @@
 >      In 1st half of match increases turning speed while attacking.
 
 ## [Items]
-- Added a new capsule for Golden Gourdon and Dion *(replacing the Model Violet and Edo capsule as predicted. if the progress on it resets as well i do not know)*
+- Added a new capsule for Golden Gourdon and Dion  
+*(replacing the Model Violet and Edo capsule as predicted. if the progress on it resets as well i do not know)*
 
   ![Capsule](images/ui_useitem3606.png)
 - Violet, IDO are added into Extraordinary Academy Capsule (Capsule Progress won’t be reset)
@@ -53,51 +55,51 @@
 
   + Alcatraz(M/F)
 
-    ![Male](images/ui_useitem3749.png) ![Female](images/ui_useitem3761.png)
+  ![Male](images/ui_useitem3749.png) ![Female](images/ui_useitem3761.png)
 
   + Arcance(M/F)
 
-    ![Male](images/ui_useitem3750.png) ![Female](images/ui_useitem3762.png)
+  ![Male](images/ui_useitem3750.png) ![Female](images/ui_useitem3762.png)
 
   + Belikeus(M/F)
 
-    ![Male](images/ui_useitem3751.png) ![Female](images/ui_useitem3763.png)
+  ![Male](images/ui_useitem3751.png) ![Female](images/ui_useitem3763.png)
 
   + Bravery(M/F)
 
-    ![Male](images/ui_useitem3752.png) ![Female](images/ui_useitem3764.png)
+  ![Male](images/ui_useitem3752.png) ![Female](images/ui_useitem3764.png)
 
   + Drunks(M/F)
 
-    ![Male](images/ui_useitem3753.png) ![Female](images/ui_useitem3765.png)
+  ![Male](images/ui_useitem3753.png) ![Female](images/ui_useitem3765.png)
 
   + Enjoy(M/F)
 
-    ![Male](images/ui_useitem3754.png) ![Female](images/ui_useitem3766.png)
+  ![Male](images/ui_useitem3754.png) ![Female](images/ui_useitem3766.png)
 
   + Hannover(M/F)
 
-    ![Male](images/ui_useitem3755.png) ![Female](images/ui_useitem3767.png)
+  ![Male](images/ui_useitem3755.png) ![Female](images/ui_useitem3767.png)
 
   + Laranjas(M/F)
 
-    ![Male](images/ui_useitem3756.png) ![Female](images/ui_useitem3768.png)
+  ![Male](images/ui_useitem3756.png) ![Female](images/ui_useitem3768.png)
 
   + Nightmare(M/F)
 
-    ![Male](images/ui_useitem3757.png) ![Female](images/ui_useitem3769.png)
+  ![Male](images/ui_useitem3757.png) ![Female](images/ui_useitem3769.png)
 
   + Optimus(M/F)
 
-    ![Male](images/ui_useitem3758.png) ![Female](images/ui_useitem3770.png)
+  ![Male](images/ui_useitem3758.png) ![Female](images/ui_useitem3770.png)
 
   + Random(M/F)
 
-    ![Male](images/ui_useitem3759.png) ![Female](images/ui_useitem3771.png)
+  ![Male](images/ui_useitem3759.png) ![Female](images/ui_useitem3771.png)
 
   + Tradeko(M/F)
 
-    ![Male](images/ui_useitem3760.png) ![Female](images/ui_useitem3772.png)
+  ![Male](images/ui_useitem3760.png) ![Female](images/ui_useitem3772.png)
 
 ## [Events]
 - Re-added the Online Event *(receiving scout points & points for beeing logged in)*
@@ -111,7 +113,8 @@
 - Snow Fest Pack (21.12 - 19.01)
 
   ![Event3](images/event_banner_0151.png)
-- Snow Fight Fest (25.12 - 16.01) *(100k Points, 9k Ecoins, Santa Outfit, 2x Lvl 1 Extraordinary Academy Capsule, 9x R Extraordinary Academy Capsule)*
+- Snow Fight Fest (25.12 - 16.01)  
+*(100k Points, 9k Ecoins, Santa Outfit, 2x Lvl 1 Extraordinary Academy Capsule, 9x R Extraordinary Academy Capsule)*
 
   ![Event4](images/event_banner_0224.png)
 - Unexpected Gift (25.12 - 02.01) *(Login daily for certain rewards)*
