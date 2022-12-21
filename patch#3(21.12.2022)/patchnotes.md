@@ -103,6 +103,7 @@
 
 ## [Events]
 - Re-added the Online Event *(receiving scout points & points for beeing logged in)*
+- The "Pick a Mystery Card" Event progress has been reset.
 - Weekly Discount Pack *(the 6k coins cost one)*: Golden Gourdon, Dion are now added into A&S Fragments Pack
 - Youth Football Training Fund (21.12 - 03.01) *(Spend 3k coins for 3k Ecoins instantly and 869 over 2 weeks = 15,166 Ecoins)*
 
