@@ -62,3 +62,7 @@
   [Yann](http://fsf.hogacn.com/h/guide/h/guide/juesejieshao/2022/1026/1247.html) *(TBA)*                           | ![Yann](images/img_yaen.png)
   [Elias](http://fsf.hogacn.com/h/guide/h/guide/juesejieshao/2022/1221/1291.html) *(TBA)*                          | ![Elias](images/img_elias.png)
   [Charlotte](http://fsf.hogacn.com/h/guide/h/guide/juesejieshao/2022/1221/1292.html) *(TBA)*                      | ![Charlotte](images/img_charlotte.png)
+  [Fei](http://fsf.hogacn.com/h/guide/h/guide/juesejieshao/2023/0221/1342.html) *(TBA)*                            | ![Fei](images/img_fei1.png)
+  [Luna](http://fsf.hogacn.com/h/guide/h/guide/juesejieshao/2023/0426/1385.html) *(TBA)*                           | ![Luna](images/img_luna.png)
+  [Lauel](http://fsf.hogacn.com/h/guide/h/guide/juesejieshao/2023/0321/1366.html) *(TBA)*                          | ![Lauel](images/img_lowell.png)
+  [Collection Fei](http://fsf.hogacn.com/h/guide/h/guide/juesejieshao/2023/0523/1411.html) *(TBA)*                 | ![Collection Fei](images/img_dcfei1.png)
